@@ -39,10 +39,6 @@ Para qualquer aplicação real com volume moderado ou grande de dados que precis
 
 ## 💬 Comentários
 
-<!--
-Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
-Formato sugerido:
+**Matheus Queirós - 04/09:**
+Nesta parte, o Ryan Áquila Damasceno Vieira ficou responsável por realizar o experimento de ordenação, comparando na prática o desempenho dos algoritmos Bubble Sort e Quick Sort. Foram utilizados arrays de diferentes tamanhos, com 10, 20 e 1.000 elementos, permitindo analisar a quantidade de comparações, trocas e movimentações realizadas por cada algoritmo. A partir dos resultados, foi possível perceber que o Quick Sort apresentou um desempenho muito mais eficiente, principalmente com o aumento da quantidade de elementos. Além disso, o questionário ajudou a relacionar os resultados obtidos no experimento com as complexidades teóricas estudadas.
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
