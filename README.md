@@ -5,12 +5,12 @@
 
 | Parte | Conteúdo | Responsável |
 |---|---|---|
-| [Parte 1](parte-1-bubble-quicksort.md) | Bubble Sort e Quick Sort | *[nome]* |
-| [Parte 2](parte-2-experimento-ordenacao.md) | Experimento de ordenação | *[nome]* |
-| [Parte 3](parte-3-busca-matrizes.md) | Busca em matrizes | *[nome]* |
-| [Parte 4](parte-4-hands-on-array.md) | Hands On — investigação do array | *[nome]* |
-| [Parte 5](parte-5-calculo-media-geral.md) | Cálculo da média geral (sensores) | *[nome]* |
-| [Parte 6](parte-6-analise-conclusao.md) | Análise e conclusão | *[nome]* |
+| [Parte 1](parte-1-bubble-quicksort.md) | Bubble Sort e Quick Sort | *Ryan Áquila* |
+| [Parte 2](parte-2-experimento-ordenacao.md) | Experimento de ordenação | *Ryan Áquila* |
+| [Parte 3](parte-3-busca-matrizes.md) | Busca em matrizes | *Rhuann Pabllo* |
+| [Parte 4](parte-4-hands-on-array.md) | Hands On — investigação do array | *Rhuann Pabllo* |
+| [Parte 5](parte-5-calculo-media-geral.md) | Cálculo da média geral (sensores) | *João Victor Lima* |
+| [Parte 6](parte-6-analise-conclusao.md) | Análise e conclusão | *Matheus Queirós* |
 
 ## Como comentar
 
