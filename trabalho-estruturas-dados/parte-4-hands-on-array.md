@@ -12,10 +12,6 @@ O(n), linear pura. Mesmo com vários `for` no código, eles ficam soltos, um dep
 
 ## 💬 Comentários
 
-<!--
-Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
-Formato sugerido:
+**Matheus Queirós - 04/09:**
+Nesta parte, o Rhuann Pabllo Ferreira Magalhães ficou responsável pela investigação do percurso de um array. Foram analisadas as operações realizadas durante o preenchimento, a exibição dos valores, o cálculo da soma, a identificação do maior e menor elemento e a verificação dos valores acima da média. Dessa forma, foi possível perceber que, mesmo utilizando vários laços for, como eles são executados separadamente, a complexidade do algoritmo continua sendo O(n), apresentando um crescimento linear conforme aumenta a quantidade de elementos do vetor.
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
