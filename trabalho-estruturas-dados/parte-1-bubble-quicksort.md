@@ -43,10 +43,6 @@
 
 ## 💬 Comentários
 
-<!--
-Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
-Formato sugerido:
+**Matheus Queirós — 04/09:**
+Nesta parte, o Ryan Áquila Damasceno Vieira ficou responsável pela pesquisa sobre os algoritmos de ordenação Bubble Sort e Quick Sort. Ele explicou o funcionamento de cada algoritmo, suas lógicas de ordenação, os melhores, médios e piores casos, além das vantagens, limitações e situações em que cada um é mais recomendado. Também foi apresentada uma tabela comparativa, facilitando a visualização das principais diferenças entre os dois métodos. Essa pesquisa foi importante para entendermos qual algoritmo é mais adequado dependendo da quantidade e organização dos dados.
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
