@@ -27,10 +27,6 @@ Assim, os experimentos comprovaram que não basta um algoritmo produzir o result
 
 ## 💬 Comentários
 
-<!--
-Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
-Formato sugerido:
+**Matheus Queirós - 04/09:**
+Nesta parte, fiquei responsável pela análise dos resultados obtidos durante o desenvolvimento do trabalho e pela elaboração da conclusão geral. A partir dos experimentos realizados nas partes anteriores, analisei como o aumento das estruturas de dados influencia a quantidade de operações executadas pelos algoritmos. Também foi possível comparar o desempenho do Bubble Sort e do Quick Sort, mostrando na prática a diferença entre suas complexidades e como essa diferença se torna mais evidente com o aumento da quantidade de elementos. Além disso, relacionei os resultados dos percursos em arrays e matrizes com suas respectivas complexidades. Dessa forma, essa parte reuniu e interpretou os principais resultados do trabalho, concluindo que, além de um algoritmo produzir o resultado correto, é importante analisar sua eficiência e seu desempenho conforme o volume de dados aumenta.
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
