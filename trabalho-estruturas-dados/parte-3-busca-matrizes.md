@@ -21,10 +21,6 @@ Fica O(m × n) no pior cenário — é necessário passar por cada linha (m) e c
 
 ## 💬 Comentários
 
-<!--
-Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
-Formato sugerido:
+**Matheus Queirós - 04/09:**
+Nesta parte, o Rhuann Pabllo Ferreira Magalhães ficou responsável pela investigação sobre a busca sequencial em matrizes. Foram analisadas diferentes situações, como a busca por um elemento no início, no final ou que não existe na matriz. Com isso, foi possível entender como a posição do elemento e o tamanho da matriz influenciam diretamente na quantidade de operações realizadas. Além disso, a parte apresentou a complexidade da busca sequencial, demonstrando que, no pior caso, o algoritmo precisa percorrer todas as posições da matriz, resultando em uma complexidade de O(m × n).
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
