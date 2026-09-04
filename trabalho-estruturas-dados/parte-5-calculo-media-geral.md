@@ -96,10 +96,6 @@ A quantidade de posições percorridas é a multiplicação entre linhas e colun
 
 ## 💬 Comentários
 
-<!--
-Cada integrante deve comentar aqui (mesmo quem não fez esta parte).
-Formato sugerido:
+**Matheus Queirós - 04/09:**
+Nesta parte, o João Victor Lima de Freitas Carvalho ficou responsável pelo desenvolvimento do código para realizar o cálculo e a análise das medições de temperatura. O programa utiliza uma matriz com 5 sensores e 24 horários, totalizando 120 medições. Foram implementadas funcionalidades para calcular a média de cada sensor, identificar a maior temperatura registrada, informar o sensor e o horário responsáveis por essa medição, calcular a média geral e verificar quantas temperaturas ficaram acima de um limite informado pelo usuário. Além disso, foi explicada a utilização dos loops aninhados e dos índices [i][j], mostrando como eles permitem percorrer todas as posições da matriz. Dessa forma, também foi possível identificar que o percurso completo possui complexidade O(m × n).
 
-**[Seu Nome] — dd/mm:**
-Seu comentário aqui.
--->
